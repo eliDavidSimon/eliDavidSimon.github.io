@@ -22,7 +22,7 @@ description: >- # used by seo meta and the atom feed
   This is my digital notebook. I am going to share my notes on various topics pertaining to engineering and physics.
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://eliDavidSimon.github.io"
 
 github:
   username: eliDavidSimon # change to your GitHub username
